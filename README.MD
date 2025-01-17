@@ -87,5 +87,3 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ⌨️ com 💜 por [Tiago Rocha de Almeida](https://github.com/tiagorochadealmeida)
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
