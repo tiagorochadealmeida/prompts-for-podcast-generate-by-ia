@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/Prototipo3-ElevenLabs_2025-01-17T20_33_31_Fernando%20Borges%20_pvc_s51_sb48_se20_m2.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
@@ -47,7 +47,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
 - Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Capcut para tratar aúdio e adicionar sons de fundo: NÃO FOI UTILIZADO POR NÃO HAVER ESPAÇO DE ARMAZENAMENTO DISPONÍVEL. O PASSO A PASSO DE DESENVOLVIMENTO FOI DETALHADO NO LINK (https://github.com/tiagorochadealmeida/prompts-for-podcast-generate-by-ia/blob/main/assets/Podcast.pptx)
 
 ## 📚 Materiais
 
